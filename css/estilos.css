@@ -78,7 +78,7 @@ body {
 
 .titulo-exitos {
   text-align: center;
-  margin: 1rem; }
+  margin: 2rem; }
 
 /* contenido para pantalla de celular */
 @media screen and (max-width: 600px) {
