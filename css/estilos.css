@@ -261,12 +261,12 @@ body {
       background-color: #c6ffac; }
 
 /* contenido para pantalla de celular */
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 740px) {
   .formulario {
-    width: 100%; } }
+    width: 90%; } }
 
 /* contenido para pantalla de tablet */
-@media screen and (min-width: 600px) and (max-width: 1024px) {
+@media screen and (min-width: 740px) and (max-width: 1024px) {
   .formulario {
     width: 80%; } }
 
